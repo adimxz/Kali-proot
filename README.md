@@ -26,7 +26,7 @@
 
    - `pkg update -y && pkg upgrade -y`
    - `pkg install wget -y`
-   - `wget https://raw.githubusercontent.com/sabamdarif/kali-proot/main/setup.sh`
+   - `wget https://raw.githubusercontent.com/adimxz/kali-proot/main/setup.sh`
    - `chmod +x setup.sh`
    - `bash setup.sh`
    - `kali`
